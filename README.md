@@ -1,4 +1,4 @@
-# aws_loot
+# AWS_Loot
 
 Searches an AWS environment looking for secrets, by enumerating environment variables and source code. This tool allows quick enumeration over large sets of AWS instances and services.
 
